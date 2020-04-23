@@ -1,3 +1,9 @@
+"""create a table in your database to store
+the data that user enters"""
+
+
+
+
 from tkinter import *
 from sqlite3 import *
 
